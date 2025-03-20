@@ -14,8 +14,15 @@
     "userscript",
     "tampermonkey"
   ],
-  "author": "",
-  "license": "MIT",
+  "author": "LuminLyon <LuminLyon@hotmail.com>",
+  "license": "GPL-3.0-or-later",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LuminLyon/obsidian-userscript-manager.git"
+  },
+  "bugs": {
+    "url": "https://github.com/LuminLyon/obsidian-userscript-manager/issues"
+  },
   "devDependencies": {
     "@types/node": "^16.11.6",
     "@typescript-eslint/eslint-plugin": "^5.2.0",
