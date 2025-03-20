@@ -1,0 +1,10 @@
+{
+  "id": "obsidian-userscript-manager",
+  "name": "UserScript Manager",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "在Obsidian的Web Viewer中运行用户自定义脚本，类似Tampermonkey的功能",
+  "author": "Your Name",
+  "authorUrl": "",
+  "isDesktopOnly": true
+} 

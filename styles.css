@@ -1,0 +1,55 @@
+/* 脚本列表样式 */
+.script-list {
+  margin-top: 20px;
+}
+
+.script-item {
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 15px;
+  background-color: var(--background-secondary);
+}
+
+.script-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.script-name {
+  font-weight: bold;
+  font-size: 1.1em;
+}
+
+.script-version {
+  font-size: 0.8em;
+  color: var(--text-muted);
+  margin-left: 10px;
+}
+
+.script-controls {
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 10px;
+}
+
+.script-matches {
+  font-size: 0.9em;
+  margin-top: 5px;
+}
+
+.script-matches-label {
+  font-weight: bold;
+  margin-right: 5px;
+}
+
+.script-match-item {
+  background-color: var(--background-modifier-border);
+  padding: 2px 6px;
+  border-radius: 3px;
+  margin-right: 5px;
+  font-family: var(--font-monospace);
+  font-size: 0.8em;
+} 
