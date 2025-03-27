@@ -66,9 +66,9 @@ npm install
 npx esbuild src/main.ts --bundle --external:obsidian --outfile=main.js --format=cjs
 ```
 
-## 许可证
+## License
 
-GNU通用公共许可证v3.0 (GPLv3)
+This project is licensed under the GNU Affero General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
 
 版权所有 (c) 2024 LuminLyon
 
@@ -102,4 +102,4 @@ GNU通用公共许可证v3.0 (GPLv3)
 
 ### 免责声明
 
-本软件按"原样"提供，不提供任何明示或暗示的保证，包括但不限于对适销性和特定用途适用性的保证。在任何情况下，作者或版权持有人均不对任何索赔、损害或其他责任负责，无论是在合同诉讼、侵权行为还是其他方面，由软件或软件的使用或其他交易引起、由软件引起或与之相关。 
+本软件按"原样"提供，不提供任何明示或暗示的保证，包括但不限于对适销性和特定用途适用性的保证。在任何情况下，作者或版权持有人均不对任何索赔、损害或其他责任负责，无论是在合同诉讼、侵权行为还是其他方面，由软件或软件的使用或其他交易引起、由软件引起或与之相关。
